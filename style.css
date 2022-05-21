@@ -1,0 +1,23 @@
+#title, .subtitle{
+    margin: 10px;
+    color: rgb(255, 0, 0);
+    font-family:sans-serif;
+}
+
+.post_title {
+    color:rgb(0, 0, 0);
+    font-size:20px;
+    font-style:initial; 
+}
+
+body{
+    background: rgb(255, 255, 255)
+
+}
+
+.post{
+    background: rgb(204, 204, 204);
+    padding: 10px;
+    border: 3px solid rgb(0, 0, 0);
+    margin: 10px;
+}
